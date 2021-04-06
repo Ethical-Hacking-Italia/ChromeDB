@@ -1,24 +1,18 @@
 # ChromeDB Tool
 
+## <u>**! ONLY FOR WINDOWS !**</u>
+
 ![Image](https://imagesbot.tpadev.repl.co/ToolIMGS/screenshot1.jpg.png)
-
-
 
 > #### Read Chrome Data
 
-
-
 <img title="" src="https://imagesbot.tpadev.repl.co/ToolIMGS/screenshot2.jpg" alt="image" width="418">
-
-
 
 1) first type "1" and press enter
 
 2) then drag the ChromeData.db file to the console or enter the path to the file
 
 3) and then read the passwords! easy right?
-
-
 
 > #### Stole Chrome Data
 
@@ -30,19 +24,13 @@
 
 3) we recommend inserting the file on a usb and transforming it into exe, when the victim opens the exe from the usn, the file ChromeData_UserName.db file will be generated inside the usb and then you can read it with the function 1
 
-
-
 > ### Info
 
 ###### the tool was created for informational purposes only
 
 ###### do not use it on people who have not given you consent to do so!
 
-
-
 > ### credits
-
-
 
 tool created by JProgrammer#1233 (Discord), an admin of Ethical Hacking Italia
 
@@ -55,5 +43,3 @@ Twitch: [click here](https://www.twitch.tv/ethical_hacking_ita)
 Instagram: [click here](https://www.instagram.com/ethical_hacking_ita/)
 
 Twitter: [click here](https://twitter.com/EthicalIta)
-
-
